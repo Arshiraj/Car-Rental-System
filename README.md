@@ -27,7 +27,7 @@ javac Main.java
 Run the program
 java Main
 
-📚What I Learned
+What I Learned
 Classes and Objects
 How to use ArrayList
 Taking user input
