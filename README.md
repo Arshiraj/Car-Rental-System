@@ -1,10 +1,10 @@
 Car Rental System 
 
- Introduction
+ Introduction:-
 
 This is my Java project on Car Rental System. In this project, I created a simple program where a user can see available cars, rent a car, and return it. This project helps me understand how real rental systems work.
 
- Objective
+ Objective:-
  
 The main objective of this project is to:
 
@@ -14,7 +14,7 @@ Understand OOP concepts
 
 Build a real-life application
 
- Features
+ Features:-
  
 Show available cars
 
@@ -24,14 +24,14 @@ Return a car
 
 Calculate rent based on days
 
- Tools Used
+ Tools Used:-
  
 Java
 Scanner (for input)
 
 ArrayList
 
- How to Run
+ How to Run:-
  
 Compile the program
 
@@ -41,7 +41,7 @@ Run the program
 
 java Main
 
-What I Learned
+What I Learned:-
 
 Classes and Objects
 
@@ -51,9 +51,9 @@ Taking user input
 
 Basic project logic
 
-Conclusion
+Conclusion:-
 
 This project is helpful for beginners to understand Java and how a simple system works. It improves programming and problem-solving skills.
 
- Name
+ Name:
 Arshi Raj
